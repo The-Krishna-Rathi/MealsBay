@@ -1,6 +1,12 @@
 # MealsBay 
-## Demo Video
-https://user-images.githubusercontent.com/74900144/212025813-a94eb7b6-7bef-42e9-b04f-cab2b098d6e8.mp4
+* MealsBay is an online food Retail Store that has various type of food items in its menu.
+* From the menu you can select and add food items to your cart
+* React.js is used to develop this web application
+* It is just a UI component it doesnot support any server-side scripting
+
+### `visuals`
+![screencapture-localhost-3000-2023-01-19-00_39_16](https://user-images.githubusercontent.com/74900144/213272308-264321f2-e675-4f9c-876e-72dd7e8edf36.png)
+
 
 
 # Getting Started with Create React App
